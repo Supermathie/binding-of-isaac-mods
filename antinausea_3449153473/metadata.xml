@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Antinausea</name>
+    <directory>antinausea</directory>
+    <id>3449153473</id>
+    <description>A simple reskin of Tainted Blue Baby to that removes the obvious implications of his last meal.</description>
+    <version>1.1</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Player Characters"/>
+    <tag id="Graphics"/>
+</metadata>
