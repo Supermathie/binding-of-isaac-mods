@@ -3,9 +3,11 @@
     <name>Antinausea</name>
     <directory>antinausea</directory>
     <id>3449153473</id>
-    <description>A simple reskin of Tainted Blue Baby to that removes the obvious implications of his last meal.</description>
-    <version>1.1</version>
-    <visibility>Friends Only</visibility>
+    <description>Does the sight of Tainted Blue Baby having gorged on peanut butter make you nauseous?
+
+This reskin removes the graphical evidence of his last meal.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
     <tag id="Player Characters"/>
     <tag id="Graphics"/>
 </metadata>
